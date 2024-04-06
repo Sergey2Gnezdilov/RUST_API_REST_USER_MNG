@@ -1,0 +1,1 @@
+(Text, Text, diesel::sql_types::Nullable<diesel::sql_types::Timestamp>, diesel::sql_types::Nullable<diesel::sql_types::Timestamp>, Text, Text, Text, Text)
