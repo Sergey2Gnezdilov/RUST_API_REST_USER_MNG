@@ -12,6 +12,7 @@ https://www.postman.com/cryosat-geoscientist-76623780/workspace/api-users-manage
 
 
 Example for POST new user
+
 curl -X POST -H "Content-Type: application/json" -d '{"first_name": "John",  "second_name": "Connor","email": "chief_engineer@sky.net","phone" : "12345"}' http://localhost:8082/api_usr_mng/users
 
 
