@@ -1,0 +1,13 @@
+/home/sg/git_clone/RUST_API_REST_USER_MNG/target/debug/deps/libactix_router-acd1c57d4406fa67.rmeta: /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/lib.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/de.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/path.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/pattern.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/quoter.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/resource.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/resource_path.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/router.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/url.rs
+
+/home/sg/git_clone/RUST_API_REST_USER_MNG/target/debug/deps/actix_router-acd1c57d4406fa67.d: /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/lib.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/de.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/path.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/pattern.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/quoter.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/resource.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/resource_path.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/router.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/url.rs
+
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/lib.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/de.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/path.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/pattern.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/quoter.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/resource.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/resource_path.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/router.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.5.2/src/url.rs:

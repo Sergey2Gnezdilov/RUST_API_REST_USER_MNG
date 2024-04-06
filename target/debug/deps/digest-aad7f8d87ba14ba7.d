@@ -1,0 +1,11 @@
+/home/sg/git_clone/RUST_API_REST_USER_MNG/target/debug/deps/libdigest-aad7f8d87ba14ba7.rmeta: /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/lib.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/ct_variable.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/rt_variable.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/wrapper.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/xof_reader.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/digest.rs
+
+/home/sg/git_clone/RUST_API_REST_USER_MNG/target/debug/deps/digest-aad7f8d87ba14ba7.d: /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/lib.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/ct_variable.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/rt_variable.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/wrapper.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/xof_reader.rs /home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/digest.rs
+
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/lib.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/ct_variable.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/rt_variable.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/wrapper.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/core_api/xof_reader.rs:
+/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/digest-0.10.7/src/digest.rs:
