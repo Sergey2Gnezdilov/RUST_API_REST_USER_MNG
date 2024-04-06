@@ -30,10 +30,10 @@ curl -s -X DELETE http://localhost:8082/api_usr_mng/users/{id}
 **Example PUT specified user by ID **
 curl -s -X PUT -H "Content-Type: application/json" -d '{"first_name": "John",  "second_name": "Connor","email": "chief_engineer@sky.net","phone" : "12345"}' http://localhost:8082/api_usr_mng/users/{id}
 
--=some cli comands =- /n
-$clear && cargo build /n
-$cargo run /n
-For back trace set  /n
+**-=some cli comands =-**
+$clear && cargo build 
+$cargo run 
+For back trace set 
 $export RUST_BACKTRACE=full
 
 
