@@ -140,6 +140,6 @@ HOST_ARFLAGS = None
 cargo:rerun-if-env-changed=ARFLAGS
 ARFLAGS = None
 cargo:rustc-link-lib=static=zstd
-cargo:rustc-link-search=native=/home/sg/rust/urs_mng_api/target/debug/build/zstd-sys-da48d70b2e67ebe2/out
-cargo:root=/home/sg/rust/urs_mng_api/target/debug/build/zstd-sys-da48d70b2e67ebe2/out
+cargo:rustc-link-search=native=/home/sg/git_clone/RUST_API_REST_USER_MNG/target/debug/build/zstd-sys-da48d70b2e67ebe2/out
+cargo:root=/home/sg/git_clone/RUST_API_REST_USER_MNG/target/debug/build/zstd-sys-da48d70b2e67ebe2/out
 cargo:include=/home/sg/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zstd-sys-2.0.10+zstd.1.5.6/zstd/lib
