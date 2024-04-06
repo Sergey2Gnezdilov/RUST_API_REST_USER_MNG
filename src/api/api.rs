@@ -48,7 +48,7 @@ pub async fn update_user_by_id(db: web::Data<Database>, id: web::Path<String>, u
 }
 
 
-#[get("/users/active_status/{id}")]
+#[put("/users/active_status/{id}")]
 pub async fn active_user_by_id(db: web::Data<Database>, id: web::Path<String>, updated_user: web::Json<User>) -> HttpResponse {
     let user = db.active_user_by_id(&id, updated_user.into_inner());
     match user {
@@ -57,7 +57,7 @@ pub async fn active_user_by_id(db: web::Data<Database>, id: web::Path<String>, u
     }
 }
 
-#[get("/users/deactive_status/{id}")]
+#[put("/users/deactive_status/{id}")]
 pub async fn deactive_user_by_id(db: web::Data<Database>, id: web::Path<String>, updated_user: web::Json<User>) -> HttpResponse {
     let user = db.deactive_user_by_id(&id, updated_user.into_inner());
     match user {
