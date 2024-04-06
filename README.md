@@ -30,6 +30,10 @@ curl -s -X DELETE http://localhost:8082/api_usr_mng/users/{id}
 **Example PUT specified user by ID **
 curl -s -X PUT -H "Content-Type: application/json" -d '{"first_name": "John",  "second_name": "Connor","email": "chief_engineer@sky.net","phone" : "12345"}' http://localhost:8082/api_usr_mng/users/{id}
 
+**Example activate and deActicate user**
+http://localhost:8082/api_usr_mng/users/active_status/42feedbd-547f-478a-905c-799d2ce3a88f  
+http://localhost:8082/api_usr_mng/users/deactive_status/42feedbd-547f-478a-905c-799d2ce3a88f  
+
 **-=some cli comands =-**
 $clear && cargo build 
 $cargo run 
