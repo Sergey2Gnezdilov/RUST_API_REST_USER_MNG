@@ -1,4 +1,4 @@
-target/
+target/release/*/*
 Cargo.lock
 debug/
 **/*.rs.bk
